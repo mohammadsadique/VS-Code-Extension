@@ -27,6 +27,7 @@ The extension will display the file’s history, including:
 ### Example Output
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/show-commit.PNG)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=postman)
@@ -42,3 +43,20 @@ Sign in to Postman to keep your APIs synced on all devices. Once signed in, you 
 
 ### Example Output
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/postman-body.PNG)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=vue)
+
+### 1. Vue (Official) (by [Vue](https://vuejs.org))
+
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/vue-header.PNG)
+
+🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+### Why Use This Extension?
+If you work with Vue.js, this is the official and recommended extension. It provides syntax highlighting, IntelliSense, type checking, and other powerful features to make Vue development easier and more efficient.
+
+### Example Output
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/vue-body.PNG)
