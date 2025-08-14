@@ -5,6 +5,8 @@
 
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header.PNG)
 
+🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
+
 ### How to Use
 
 1. Open the file you want to track in **VS Code**.  
@@ -19,5 +21,21 @@ The extension will display the file’s history, including:
 - Date  
 - Changes made 
 
-### Output:-
+### Example Output
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/show-commit.PNG)
+
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=postman)
+
+### 2. Postman (by [postman.com](https://postman.com))
+
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/postman-header.PNG)
+
+🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
+
+### Why Use Postman in VS Code?
+Sign in to Postman to keep your APIs synced on all devices. Once signed in, you can access your collections, environments, and history from anywhere.
+
+### Example Output
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/postman-body.PNG)
