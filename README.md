@@ -7,6 +7,9 @@
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
 
+This extension helps you quickly view the history of a file in VS Code.  
+If you already have other Git extensions installed (e.g., **GitLens**, **Git History**), searches may not use the **Git File History** package directly.  
+
 ### How to Use
 
 1. Open the file you want to track in **VS Code**.  
