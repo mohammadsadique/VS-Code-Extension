@@ -49,7 +49,7 @@ Sign in to Postman to keep your APIs synced on all devices. Once signed in, you 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=vue)
 
-### 1. Vue (Official) (by [Vue](https://vuejs.org))
+### 3. Vue (Official) (by [Vue](https://vuejs.org))
 
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/vue-header.PNG)
 
@@ -60,3 +60,20 @@ If you work with Vue.js, this is the official and recommended extension. It prov
 
 ### Example Output
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/vue-body.PNG)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=laravel)
+
+### 4. Laravel Goto View (by codingyu)
+
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/laravel-blade-view-header.PNG)
+
+🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view)
+
+### Why Use This Extension?
+This extension allows you to quickly navigate from a controller or route directly to the corresponding Blade view file, saving time and improving productivity while working with Laravel projects.
+
+### Example Output
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/laravel-blade-view-body.PNG)
