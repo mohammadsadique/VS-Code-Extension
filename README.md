@@ -77,3 +77,24 @@ This extension allows you to quickly navigate from a controller or route directl
 
 ### Example Output
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/laravel-blade-view-body.PNG)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Tools
+![My Skills](https://skillicons.dev/icons?i=php)
+
+### 5. PHP Intelephense (Ben Mewburn [intelephense.com](https://intelephense.com/))
+
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-intelephence)
+
+🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+
+### Why Use This Extension?
+PHP Intelephense is an essential extension for PHP development in VS Code. It provides:
+
+- **Intelligent Navigation** – Jump to classes, traits, or function definitions with *Ctrl + Click*.  
+- **Hover Information** – Instantly view class, method, and property details.  
+- **Smart Autocomplete** – Accurate code suggestions for faster development.
+
+### Example Output
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-body)
