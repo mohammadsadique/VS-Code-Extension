@@ -115,3 +115,32 @@ Auto Rename Tag automatically updates the matching closing tag when you modify t
 
 ### Example Output
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/rename-tag-body.gif)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=css)
+
+### 7. indent-rainbow (By oderwat)
+
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/indent-rainbow-header.png)
+
+🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+### Why Use This Extension?
+The Indent-Rainbow extension improves code readability by colorizing indentation levels.
+With a simple customization, you can highlight the current tag block where your cursor is placed, making it easier to visually trace nested elements.
+
+📂 Path to settings.json:
+
+#### C:\Users\FwUserEight\AppData\Roaming\Code\User\settings.json
+
+```
+    "indentRainbow.indicatorStyle": "light",
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground1": "#00ff55",
+    }
+```
+
+### Example Output
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/indent-rainbow-body.png)
