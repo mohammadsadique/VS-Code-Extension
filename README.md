@@ -98,3 +98,20 @@ PHP Intelephense is an essential extension for PHP development in VS Code. It pr
 
 ### Example Output
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-body.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=html)
+
+### 6. Auto Rename Tag (By Jun Han)
+
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/rename-tag.png)
+
+🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+### Why Use This Extension?
+Auto Rename Tag automatically updates the matching closing tag when you modify the opening tag (and vice versa). This reduces errors and saves time, especially when working with deeply nested HTML structures.
+
+### Example Output
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/rename-tag-body.gif)
