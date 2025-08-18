@@ -25,7 +25,7 @@ The extension will display the file’s history, including:
 - Changes made 
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/show-commit.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/git-file-history-body.gif)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
