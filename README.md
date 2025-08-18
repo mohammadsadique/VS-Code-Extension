@@ -85,7 +85,7 @@ This extension allows you to quickly navigate from a controller or route directl
 
 ### 5. PHP Intelephense (Ben Mewburn [intelephense.com](https://intelephense.com/))
 
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-intelephence)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-intelephence.PNG)
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
@@ -97,4 +97,4 @@ PHP Intelephense is an essential extension for PHP development in VS Code. It pr
 - **Smart Autocomplete** – Accurate code suggestions for faster development.
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-body)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-body.png)
