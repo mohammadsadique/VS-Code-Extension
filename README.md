@@ -76,7 +76,7 @@ If you work with Vue.js, this is the official and recommended extension. It prov
 This extension allows you to quickly navigate from a controller or route directly to the corresponding Blade view file, saving time and improving productivity while working with Laravel projects.
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/laravel-blade-view-body.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/laravel-go-to-controller-body.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
