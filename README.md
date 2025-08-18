@@ -42,9 +42,9 @@ The extension will display the file’s history, including:
 Sign in to Postman to keep your APIs synced on all devices. Once signed in, you can access your collections, environments, and history from anywhere.
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/postman-body.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/postman-body.gif)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=vue)
