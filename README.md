@@ -80,7 +80,7 @@ This extension allows you to quickly navigate from a controller or route directl
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Tools
+ ### Tools
 ![My Skills](https://skillicons.dev/icons?i=php)
 
 ### 5. PHP Intelephense (Ben Mewburn [intelephense.com](https://intelephense.com/))
