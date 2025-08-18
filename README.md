@@ -3,7 +3,7 @@
 
 ### 1. Git File History - By (Rodrigo Pombo)
 
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/header.PNG)
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
 
@@ -25,7 +25,7 @@ The extension will display the file’s history, including:
 - Changes made 
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/git-file-history-body.gif)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/git-file-history-body.gif)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ The extension will display the file’s history, including:
 
 ### 2. Postman (by [postman.com](https://postman.com))
 
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/postman-header.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/postman-header.PNG)
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
 
@@ -42,7 +42,7 @@ The extension will display the file’s history, including:
 Sign in to Postman to keep your APIs synced on all devices. Once signed in, you can access your collections, environments, and history from anywhere.
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/postman-body.gif)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/postman-body.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Sign in to Postman to keep your APIs synced on all devices. Once signed in, you 
 
 ### 3. Vue (Official) (by [Vue](https://vuejs.org))
 
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/vue-header.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/vue-header.PNG)
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
@@ -59,7 +59,7 @@ Sign in to Postman to keep your APIs synced on all devices. Once signed in, you 
 If you work with Vue.js, this is the official and recommended extension. It provides syntax highlighting, IntelliSense, type checking, and other powerful features to make Vue development easier and more efficient.
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/vue-body.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/vue-body.PNG)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ If you work with Vue.js, this is the official and recommended extension. It prov
 
 ### 4. Laravel Goto View (by codingyu)
 
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/laravel-blade-view-header.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/laravel-blade-view-header.PNG)
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=codingyu.laravel-goto-view)
 
@@ -76,7 +76,7 @@ If you work with Vue.js, this is the official and recommended extension. It prov
 This extension allows you to quickly navigate from a controller or route directly to the corresponding Blade view file, saving time and improving productivity while working with Laravel projects.
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/laravel-go-to-controller-body.gif)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/laravel-go-to-controller-body.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ This extension allows you to quickly navigate from a controller or route directl
 
 ### 5. PHP Intelephense (Ben Mewburn [intelephense.com](https://intelephense.com/))
 
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-intelephence.PNG)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/header-php-intelephence.PNG)
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
@@ -97,7 +97,7 @@ PHP Intelephense is an essential extension for PHP development in VS Code. It pr
 - **Smart Autocomplete** – Accurate code suggestions for faster development.
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/header-php-body.png)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/header-php-body.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ PHP Intelephense is an essential extension for PHP development in VS Code. It pr
 
 ### 6. Auto Rename Tag (By Jun Han)
 
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/rename-tag.png)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/rename-tag.png)
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
@@ -114,7 +114,7 @@ PHP Intelephense is an essential extension for PHP development in VS Code. It pr
 Auto Rename Tag automatically updates the matching closing tag when you modify the opening tag (and vice versa). This reduces errors and saves time, especially when working with deeply nested HTML structures.
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/rename-tag-body.gif)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/rename-tag-body.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Auto Rename Tag automatically updates the matching closing tag when you modify t
 
 ### 7. indent-rainbow (By oderwat)
 
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/indent-rainbow-header.png)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/indent-rainbow-header.png)
 
 🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
@@ -143,4 +143,4 @@ With a simple customization, you can highlight the current tag block where your 
 ```
 
 ### Example Output
-![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/indent-rainbow-body.png)
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/indent-rainbow-body.png)
