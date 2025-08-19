@@ -144,3 +144,21 @@ With a simple customization, you can highlight the current tag block where your 
 
 ### Example Output
 ![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/vscode-shortcut/refs/heads/master/images/indent-rainbow-body.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=laravel)
+
+### 8. Laravel Intelephense (By Porifa)
+
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/VS-Code-Extension/refs/heads/master/images/laravel-intelephense-header.png)
+
+🔗 [Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Porifa.laravel-intelephense)
+
+### 🌟 Why Use This Extension?
+Laravel Intelephense enhances your Laravel development workflow by providing intelligent namespace imports, making your coding faster and cleaner.
+
+### 📌 Example Output
+![App Screenshot](https://raw.githubusercontent.com/mohammadsadique/VS-Code-Extension/refs/heads/master/images/Laravel-Intelephense-body.gif)
+
